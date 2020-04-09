@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog</title>
+  <link rel="shortcut icon" href="http://www.catb.org/hacker-emblem/glider.ico">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'blog',
+      repo: 'https://github.com/adolphlwq/blog',
+      coverpage: true,
+      loadSidebar: true,
+      ga: 'UA-67747174-2',
+      auto2top: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      search: {
+        noData: '没有结果!',
+        paths: 'auto'
+      },
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+</html>

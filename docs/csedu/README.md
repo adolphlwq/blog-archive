@@ -5,13 +5,12 @@
 
 ## 顶尖大学
 根据[CSRankings](http://csrankings.org/#/index?all&world)上的大学陪名和笔者自己的理解，列出以下大学作为分析研究对象：
-- UC Berkeley
-- MIT
-- Stanford
-- CMU
-- Tsinghua
-- SJU
-- ETH
+* [UC Berkeley](csedu/00_uc_berkeley.md)
+* [MIT](csedu/01_mit.md)
+* [Stanford](csedu/02_stanford.md)
+* [CMU](csedu/03_cmu.md)
+* [ECNU](csedu/04_ecnu.md)
+* [ETH](csedu/08_eth.md)
 
 ## Courses & Learn
 >It is not a **Fork** or **Reference** of [awesome courses](https://github.com/prakhar1989/awesome-courses) or some repos like it.
