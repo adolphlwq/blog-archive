@@ -2,6 +2,7 @@
 * [操作系统](/os/)
   * [计算机系统是如何启动的？](os/start-progress.md)
   * [操作系统中的进程与线程](os/process-thread.md)
+  * [进程是如何调度的？](os/process-schedule.md)
   * [操作系统是如何管理物理内存的？](os/physical-mem-management.md)
 * [名校CS](/csedu/)
   * [UC Berkeley](csedu/00_uc_berkeley.md)
