@@ -1,4 +1,5 @@
 # 斯坦福大学教授是如何阅读论文的？
+>2019.11.1
 
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/banner/girl-reading.jpg)
 

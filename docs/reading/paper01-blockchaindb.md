@@ -1,4 +1,5 @@
 # BlockchainDB - 构建于区块链之上的分片数据库
+>2019.12.1
 
 ![](https://raw.githubusercontent.com/adolphlwq/osshub/master/oss/blog/2019/12/bcdb_arg.png)
 
