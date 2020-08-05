@@ -1,6 +1,6 @@
 ![logo](https://translations.readthedocs.io/en/latest/_images/glider.png)
 
-# blog
+# Stay hungry, Stay foolish
 
 * Go, Kubernetes, Docker
 * Distributed System
