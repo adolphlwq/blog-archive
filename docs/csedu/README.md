@@ -11,6 +11,11 @@
 * [CMU](csedu/03_cmu.md)
 * [ECNU](csedu/04_ecnu.md)
 * [ETH](csedu/08_eth.md)
+* [只要15美元，畅享O'Reilly所有在线学习资源！](csedu/09_oreilly.md)
+* [2019计算机专业工作两年，我决定读研的思考过程](csedu/10-why-postgraduate-exam.md)
+* [2019计算机考研的经验和教训](csedu/11-postgraduate-exam-lessons.md)
+* [2012江苏省超一本线13分，我填报高考志愿的经历](csedu/12-college-application.md)
+* [高考的经验与教训](csedu/13-college-entrance-examination-experience-and-lessons.md)
 
 ## Courses & Learn
 >It is not a **Fork** or **Reference** of [awesome courses](https://github.com/prakhar1989/awesome-courses) or some repos like it.
