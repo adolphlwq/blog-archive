@@ -7,6 +7,6 @@
 * Machine Learning
 
 [GitHub](https://github.com/adolphlwq/blog/)
-[Get Started](#blog)
+[Get Started](#目录)
 
 ![color](#e4fff7)
