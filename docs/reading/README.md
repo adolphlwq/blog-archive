@@ -14,3 +14,5 @@
 - [BlockchainDB-构建于区块链之上的分片数据库](reading/paper01-blockchaindb)
 - [使用人工智能技术改进面试机器人](reading/paper02-hci-paper)
 - [人工智能在系统领域面临的挑战--伯克利视角](reading/paper03-mlsys-challenge-berkeley-view)
+- [分布式集群调度框架Mesos架构与实现](reading/paper04-mesos)
+- [Ray简介，面向新兴AI应用的分布式框架](reading/paper05-ray)
