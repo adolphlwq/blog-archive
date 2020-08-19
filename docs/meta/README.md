@@ -13,8 +13,9 @@
 10. **社交网络**。不要让自己从社会中孤立，至少要在自己专注的领域建立联系，了解该领域最厉害的人物，自己也在该领域中分享表达自己。要维系好和家人、朋友、师长的关系。
 
 # 目录
-- [元认知](meta.md)
-- [自我管理](manage-oneself.md)
-- [工程师的技能树](engineer-skill-tree.md)
-- [自我激励](motivation.md)
-- [微软沈向洋](ms-shen-xiangyang.md)
+- [元认知](meta/meta)
+- [自我管理](meta/manage-oneself)
+- [计算机该如何学习？](meta/how-to-learn-cs)
+- [工程师的技能树](meta/engineer-skill-tree)
+- [自我激励](meta/motivation)
+- [微软沈向洋](meta/ms-shen-xiangyang)
