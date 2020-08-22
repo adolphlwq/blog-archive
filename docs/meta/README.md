@@ -11,6 +11,8 @@
 8. **思考总结**。定期进行总结，反思自己过去阶段的目标、任务是否完成，调整自己的状态。需要一定时间进行思考。
 9. **习惯**。人偶尔会有惰性，这很正常，符合人性，要养成良好的习惯，利用习惯的惯性力量，推动自己不断向前。
 10. **社交网络**。不要让自己从社会中孤立，至少要在自己专注的领域建立联系，了解该领域最厉害的人物，自己也在该领域中分享表达自己。要维系好和家人、朋友、师长的关系。
+11. **最充分的准备与最坏的打算**。深思熟虑后认定的事情都要全力以赴，不留遗憾。
+12. Be open to the world, don't be shy to show yourself. Maybe you are not the best, but you should be curious, learn new things all the way and face the challenge.
 
 # 目录
 - [元认知](meta/meta)
