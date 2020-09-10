@@ -14,6 +14,11 @@
 11. **最充分的准备与最坏的打算**。深思熟虑后认定的事情都要全力以赴，不留遗憾。
 12. Be open to the world, don't be shy to show yourself. Maybe you are not the best, but you should be curious, learn new things all the way and face the challenge.
 
+# 自省问题
+1. 根据`复利`和`长期投资`理念，靠习惯和惯性推动自己，有哪些事情我坚持做超过1年？
+2. 我还在坚持阅读，记录思考、想法吗？
+3. 真正核心是自我投资，让自己不断进步，变得更好，你努力实践了吗？
+
 # 目录
 - [元认知](meta/meta)
 - [自我管理](meta/manage-oneself)
