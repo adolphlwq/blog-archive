@@ -43,7 +43,7 @@
 - git remote remove/rm
 
 ### tag
-- git tag...list tags
+- git tag list tags
 - git tag -l 'v1.2*'
 - git tag -a v1.0 -m "message"...add annotated tag
 - git show tag

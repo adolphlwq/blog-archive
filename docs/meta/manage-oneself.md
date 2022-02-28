@@ -249,5 +249,4 @@
 ## Reference
 - [Manage Oneselef pdf](http://www.newseasonlifecoaching.com/Managing%20Oneself%20-%20Drucker%20Article.pdf)
 - [Manage Oneselef book](https://hbr.org/product/managing-oneself-harvard-business-review-classics/2312-PBK-ENG)
-- [OWO manage oneself](https://adolphlwq.github.io/2018/manage-oneself/)
 - [Peter_Drucker wiki](https://en.wikipedia.org/wiki/Peter_Drucker)
