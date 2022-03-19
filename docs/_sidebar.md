@@ -1,5 +1,6 @@
 * [首页](/)
 * [元知识](/meta/)
+* [CS考研](/csedu/)
 * [Check List](/checklist/)
 * [阅读](/reading/)
 * [计算机核心课程](/csedu/)
