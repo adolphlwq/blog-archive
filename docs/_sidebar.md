@@ -1,8 +1,9 @@
 * [首页](/)
 * [元知识](/meta/)
-* [CS考研](/csedu/)
+<!-- * [CS考研](/csedu/) -->
 * [Check List](/checklist/)
 * [阅读](/reading/)
+* [健康](/health/)
 * [计算机核心课程](/csedu/)
 * [操作系统](/os/)
 * [Go](/go/)
