@@ -6,7 +6,7 @@
 * Distributed System
 * Machine Learning
 
-[GitHub](https://github.com/adolphlwq/blog/)
+[GitHub](https://github.com/adolphlwq/blog-archive/)
 [Get Started](#目录)
 
 ![color](#e4fff7)
